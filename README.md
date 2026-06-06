@@ -1,5 +1,5 @@
 # product Service
-![CI](https://github.com/Anudalem/product-service/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/<Anudalem>/product-service/actions/workflows/ci.yml/badge.svg)
 
 # Get Started
 mvn spring-boot:run 
